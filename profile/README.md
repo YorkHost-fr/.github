@@ -1,7 +1,3 @@
-Voici un **README** professionnel, clair et adapté pour la page principale du GitHub public de **YorkHost** :
-
----
-
 # 🌐 YorkHost — Infrastructure. Performance. Innovation.
 
 **YorkHost** est un hébergeur français spécialisé dans les infrastructures haute performance pour **jeux, serveurs dédiés, colocation, et services cloud**.
