@@ -59,5 +59,3 @@ Avant tout merge :
 Ce dépôt et ses sous-projets sont disponibles sous licence **MIT**, sauf mention contraire.
 
 ---
-
-Souhaite-tu que j’y ajoute une section **“Equipe / Core Team”** (avec YorkHost, Arturo Dergal, etc.) ou que je garde un ton purement organisationnel ?
