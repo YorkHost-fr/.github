@@ -14,7 +14,7 @@ Nous concevons, opérons et innovons sur l’ensemble de notre stack : matériel
 
 ---
 
-## ⚙️ Projets open source
+## ⚙️ Projets
 
 | Projet                  | Description                                                | Langage         |
 | ----------------------- | ---------------------------------------------------------- | --------------- |
